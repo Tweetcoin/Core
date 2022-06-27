@@ -9,9 +9,9 @@ Tweetcoin Core TWEET, T]
 </div>
 
 
-Tweetcoin is a community-driven cryptocurrency that was inspired by a Shiba Inu meme. The Tweetcoin Core software allows anyone to operate a node in the Tweetcoin blockchain networks and uses the Scrypt hashing method for Proof of Work. It is adapted from Bitcoin Core and other cryptocurrencies.
+Tweetcoin is a community-driven cryptocurrency that was inspired by Bitcoin and Litecoin. The Tweetcoin Core software allows anyone to operate a node in the Tweetcoin blockchain networks and uses the Scrypt hashing method for Proof of Work. It is adapted from Bitcoin Core and other cryptocurrencies.
 
-For information about the default fees used on the Dogecoin network, please
+For information about the default fees used on the Tweetcoin network, please
 refer to the [fee recommendation](doc/fee-recommendation.md).
 
 **Website:** [tweetcoin.us](https://tweetcoin.us)
