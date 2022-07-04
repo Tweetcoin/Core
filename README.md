@@ -32,8 +32,8 @@ expose RPC ports to the public internet.
 
 | Function | mainnet | testnet | regtest |
 | :------- | ------: | ------: | ------: |
-| P2P      |   N/A   |   N/A   |   N/A   |
-| RPC      |   N/A   |   N/A   |   N/A   |
+| P2P      |  2222   |  4444   |  5555   |
+| RPC      |  2223   |  4445   |  5556   |
 
 ## Ongoing development
 
