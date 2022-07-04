@@ -1,5 +1,5 @@
 <h1 align="center">
-Tweetcoin Core TWEET, T]  
+Tweetcoin Core TWTC, T]  
 <br/><br/>
 <img src="https://i.imgur.com/SB9NKgS.png" alt="Tweetcoin" width="1000"/>
 </h1>
@@ -47,7 +47,7 @@ Main development resources:
   follow planned and in-progress work for upcoming releases.
 * [Github Discussion](https://github.com/tweetcoin/core/discussions) is used
   to discuss features, planned and unplanned, related to both the development of
-  the Tweetcoin Core software, the underlying protocols and the TWEET asset.  
+  the Tweetcoin Core software, the underlying protocols and the TWTC asset.  
 
 ## Communities 🚀🍾
 
