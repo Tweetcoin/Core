@@ -1,7 +1,7 @@
 <h1 align="center">
 Tweetcoin Core TWEET, T]  
 <br/><br/>
-<img src="https://i.imgur.com/qDc0Cw1.png" alt="Tweetcoin" width="1000"/>
+<img src="https://i.imgur.com/SB9NKgS.png" alt="Tweetcoin" width="1000"/>
 </h1>
 
 <div align="center">
